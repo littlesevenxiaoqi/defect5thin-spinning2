@@ -1,0 +1,36 @@
+<annotation>
+	<filename>J01_2018.06.19_15_01_58.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2560</width>
+		<height>1920</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>thin-spinning</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>771</xmin>
+			<ymin>456</ymin>
+			<xmax>1047</xmax>
+			<ymax>528</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>thin-spinning</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1194</xmin>
+			<ymin>280</ymin>
+			<xmax>1234</xmax>
+			<ymax>696</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,24 @@
+<annotation>
+	<filename>J01_2018.06.19_15_49_51.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2560</width>
+		<height>1920</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>thin-spinning</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1486</xmin>
+			<ymin>782</ymin>
+			<xmax>2334</xmax>
+			<ymax>867</ymax>
+		</bndbox>
+	</object>
+</annotation>
